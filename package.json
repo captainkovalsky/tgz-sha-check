@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "node-cmd": "^3.0.0",
+    "read-package-json": "^2.0.11",
+    "sha1-file": "^1.0.0"
+  },
+  "bin": {
+    "check": "./index.js"
+  },
+  "name": "sha-check",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
